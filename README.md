@@ -39,3 +39,21 @@ Solved in: 0.150 s.
 
 
 Total time: 0.522 s.
+
+>python dfs_maze_timetestonly.py
+
+Maze size: 40x40
+
+Creating graph:
+Graph vertex num: 1600
+Graph edge num: 6240
+Created in: 0.136 s.
+
+Solving graph:
+Graph vertex num: 725
+Graph edge num: 1448
+Found a path in 969 steps.
+Solved in: 0.023 s.
+
+Total time: 0.159 s.
+
